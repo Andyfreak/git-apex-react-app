@@ -7,6 +7,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html,
+body,
+#root,
+#root > div {
+  height: 100vh;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -25,6 +32,14 @@ code {
   padding: 0;
   margin: 0;
   background-color: #a61730;
+}
+.slick-slider,
+.slick-track,
+.slick-slide,
+.slick-slide > div,
+.slick-slide > div > div,
+.slick-list {
+  height: 100vh !important;
 }
 @media (max-width: 1005px) {
   .pageTitle {
