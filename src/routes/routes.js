@@ -1,4 +1,4 @@
-import {createHashRouter} from "react-router-dom";
+import {createBrowserRouter} from "react-router-dom";
 import Contacts from "../pages/Contacts/Contacts";
 import React from "react";
 import ErrorPage from "../pages/NotFound/404";
@@ -9,7 +9,7 @@ import Home from "../pages/Home/Home";
 import {Services} from "../pages/Services/Services";
 import {Admin} from "../pages/Admin/Admin";
 
-export const router = createHashRouter([
+export const router = createBrowserRouter([
     {
         path: "/",
         element: <Home/>,
