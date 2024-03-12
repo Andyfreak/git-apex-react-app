@@ -50,4 +50,6 @@ export const router = createBrowserRouter([
     //     element: <div>404</div>
     // },
 
-]);
+], {
+    basename: process.env.REACT_APP_ROUTE_BASENAME
+});
