@@ -17,7 +17,7 @@ import {useNavigate} from "react-router-dom";
 
 export const Team = () => {
     const creators = ['Valentino Caushi', 'Joel Spalding'];
-    const excellence = ['Valentino Caushi', 'Joel Spalding','Adrian Caushi', 'Rodrigo Martinez', 'Scott Rosengren', 'Kim Verduzco','Djordje Djanjus', 'Noah Morkunas', 'Bashkim Tafilaj',
+    const excellence = ['Valentino Caushi', 'Joel Spalding','Adrian Caushi', 'David Laramie', 'Rodrigo Martinez', 'Scott Rosengren', 'Kim Verduzco','Djordje Djanjus', 'Noah Morkunas', 'Bashkim Tafilaj',
         'Gezim Qelaj', 'Matt Shafer', 'Kyle Grunewald', 'Dharmendra Choudhary','Kevin Smith','Agron Ferataj '];
     const sparks  = ['Nickole Lynch', 'Alesia Hushaw', 'Taylor Vestuto','Giovanna Caushi', 'Bela Kuminja', 'Elyse Jansma','Entela Sadikaj'];
     const dispatch = useDispatch();
