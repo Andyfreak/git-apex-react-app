@@ -1,5 +1,5 @@
-import {WebsiteAPI} from "../../API/WebsiteApi";
 import {v1} from "uuid";
+import projects from '../../db/apexProjects.json'
 
 
 let initialState = {
@@ -69,7 +69,7 @@ export let actions = {
 
 export const getAllProjectsTC = () => {
     return async (dispatch) => {
-        const response = await WebsiteAPI.getAllProjects();
+        const response = projects
         dispatch(actions.setAllApexProjects(response));
         return response;
     }
@@ -77,7 +77,7 @@ export const getAllProjectsTC = () => {
 };
 export const getFilteredProjectsTC = (tag) => {
     return async (dispatch) => {
-        const response = await WebsiteAPI.getAllProjects();
+        const response = projects
         dispatch(actions.setAllApexProjects(response))
         dispatch(actions.getFilteredProjectCards(tag));
     }

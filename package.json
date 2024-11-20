@@ -30,8 +30,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "validate-json": "node validate.js",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "npm run validate-json && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -56,6 +57,7 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^8.17.1",
     "gh-pages": "^5.0.0"
   }
 }
