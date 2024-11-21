@@ -32,8 +32,8 @@ export const Team = () => {
 
 
     const creatorsArr = teamArr.filter((card)=> creators.includes(card.name));
-    const excellenceArr = teamArr.filter((card)=> excellence.includes(card.name));
-    const sparksArr = teamArr.filter((card)=> sparks.includes(card.name));
+    const excellenceArr = teamArr.filter((card)=> card.isExcellence);
+    const sparksArr = teamArr.filter((card)=> card.isSparks);
 
 
 

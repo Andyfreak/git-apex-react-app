@@ -23,6 +23,12 @@
       },
       "photo": {
         "type": "string"
+      },
+      "isExcellence": {
+        "type": "boolean"
+      },
+      "isSparks": {
+        "type": "boolean"
       }
     },
     "required": ["id", "name", "position", "aboutPerson", "bottomDescription", "photo"],

@@ -41,5 +41,7 @@ export const teamMemberTemplate = {
     id: v1(),
     name: '',
     photo: '',
-    position: ''
+    position: '',
+    isExcellence: undefined,
+    isSparks: undefined
 }

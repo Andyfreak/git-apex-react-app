@@ -1,19 +1,12 @@
 [
-    {
-    "id": "a1bb69cc-a8c4-4bac-b69a-e7ffad835a1b1",
-    "name": "Valentino Caushi 2",
-    "position": "CEO",
-    "aboutPerson": "Valentino’s passion for building is the foundation of APEX’s continued growth during the company’s 20+ years in business as a general contractor. In addition to providing leadership, strategy, and direction as the APEX CEO, he provides an unwavering commitment to satisfy his clients. It is not uncommon to find him on the job site helping manage the success of his client’s projects. His deep understanding of the construction processes has proved to be invaluable in providing our clients with the building solutions necessary for project success.",
-    "bottomDescription": "<br/>APEX Construction Group’s growth year after year is a testament of Valentino’s steadfast commitment to both his client’s overall satisfaction and the proven construction processes he has created at APEX.\n\nUniversity of Prishtina, Kosova 1988 – 1992\nB.S. Building Engineering",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Valentino.jpg"
-  },
   {
     "id": "a1bb69cc-a8c4-4bac-b69a-e7ffad835a1b",
     "name": "Valentino Caushi",
     "position": "CEO",
     "aboutPerson": "Valentino’s passion for building is the foundation of APEX’s continued growth during the company’s 20+ years in business as a general contractor. In addition to providing leadership, strategy, and direction as the APEX CEO, he provides an unwavering commitment to satisfy his clients. It is not uncommon to find him on the job site helping manage the success of his client’s projects. His deep understanding of the construction processes has proved to be invaluable in providing our clients with the building solutions necessary for project success.",
     "bottomDescription": "<br/>APEX Construction Group’s growth year after year is a testament of Valentino’s steadfast commitment to both his client’s overall satisfaction and the proven construction processes he has created at APEX.\n\nUniversity of Prishtina, Kosova 1988 – 1992\nB.S. Building Engineering",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Valentino.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Valentino.jpg",
+    "isExcellence": true
   },
   {
     "id": "7b56779e-7f0b-4c5a-bc36-d7cd545u12ffyh",
@@ -30,7 +23,8 @@
     "position": "Vice President",
     "aboutPerson": "With 20 years of construction experience, Adrian has a strong background\nin supervision of large, complex projects, Adrian possesses a depth of\nknowledge of building practices and regulatory compliance issues. He is\nhighly qualified in reviewing scope and implementing the management\nnecessary to complete a quality on time and within budget. His\ncoordination of activities and strong communication are effective when\nworking with  management staff, engineers, architects, client\nrepresentatives, building officials, inspectors, and end-users. Adrian\noffers the highest level of service to all of the APEX clients.",
     "bottomDescription": "",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Adrian%20Caushi.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Adrian%20Caushi.jpg",
+    "isExcellence": true
   },
   {
     "id": "b1d5d4ed-12j5-4fd8-b4a9-2a636a726369",
@@ -38,7 +32,8 @@
     "position": "",
     "aboutPerson": " ",
     "bottomDescription": "David is an exceptional addition to Apex with his extensive experience and credentials\nin the construction Industry. His 23 years of expertise encompassing new construction,\nrenovation, and mixed-use, combined with his LEED Accredited Professional status and\nmembership in the Construction Management Association of America, demonstrate his\ncommitment to excellence and industry standards.\nManaging projects ranging from $10MM to $300MM showcases David’s versatility and\ncapability to handle projects of various scales. His proficiency in ensuring project stay\non track with scheduling, costs, and quality control, while addressing issues that may\narise, speaks to his effectiveness as a leader.\nDavid’s meticulous attention to detail not only enhances organizational efficiency but\nalso fosters clear communication among stakeholders, subcontractors, and staff,\nultimately contributing to the success of his projects.",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/David%20Laramiee.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/David%20Laramiee.jpg",
+    "isExcellence": true
   },
   {
     "id": "b1d5d4ed-12j5-4fd8-b4a9-2a636ag66379",
@@ -46,7 +41,8 @@
     "position": "CFO",
     "aboutPerson": " ",
     "bottomDescription": "",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Jake%20Erwin.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Jake%20Erwin.jpg",
+    "isExcellence": true
   },
 
   {
@@ -55,7 +51,8 @@
     "position": "Business Development Director",
     "aboutPerson": " ",
     "bottomDescription": "Alesia brings to Apex 14 years of Affordable Housing's experience as: Chief of Staff, Director of Business Development and Finance Manager. She received her Bachelor of Science degree in Public Affairs Management from Michigan State University. She also received her Master of Business Administration from University of Phoenix. Over the course of her work experience, Alesia have applied for eight LIHTC applications and all were awarded.  Rehabilitated over 1,500 properties and leveraged $200M in private debt, tax credit equity and HUD funds to finance the construction. Her objective is to provide exceptional service and timely results. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Alesia%20HushawCrr.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Alesia%20HushawCrr.jpg",
+    "isSparks": true
   },
   {
     "id": "a26a1c55-192b-4fd3-b075-ce118bade519",
@@ -63,7 +60,8 @@
     "position": " Director Of PreConstruction",
     "aboutPerson": "",
     "bottomDescription": "Djordje brings eight years of experience in the industry with degrees in Construction management as well as civil engineering technologies. In his role as Director of Preconstruction, Djordje is responsible for delivering superior estimating and preconstruction services, through decision-making, planning, and buyout phases of the project. He has aided Apex in delivering an elite client experience by helping establish a high level of trust with the client, architects, engineers, subcontractors, and suppliers. Djordje has led the preconstruction team in preparing accurate and complete budgets based on limited and conceptual information. He actively works with the design consultants to provide strategy development & value discovery while maintaining the owner’s vision. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Djordje%20Janjus.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Djordje%20Janjus.jpg",
+    "isExcellence": true
   },
   {
     "id": "d8bf85ce-23ff-421e-a485-3d1d14ee8284",
@@ -71,7 +69,8 @@
     "position": "Estimator/ Pre Construction Manager",
     "aboutPerson": "Noah has quickly grown as a manager at APEX. He has a keen ability to foresee and implement  advantages as well as detect problems before they occur and efficiently solve them. He is a valuable asset to the APEX team and our clients. As a sought-after  manager in the Chicagoland industry, Noah prefers to work for a company that is value-based and that is devoted to their client’s goals and satisfaction.",
     "bottomDescription": "Noah has obtained his degree in civil engineering with a focus on construction management, is a highly skilled, meticulous  manager.",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Noah%20Morkunas.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Noah%20Morkunas.jpg",
+    "isExcellence": true
   },
   {
     "id": "b1d5d4ed-12e5-4fd8-b9a9-2a636a923007",
@@ -79,7 +78,8 @@
     "position": "Human Resources Manager",
     "aboutPerson": "",
     "bottomDescription": "Giovanna brings four years of human resources experience to Apex. Giovanna earned her bachelor’s degree in human resources development with a minor in human resources management from Purdue University in West Lafayette, Indiana. As Human Resources Manager, Giovanna focuses on meeting organizational goals, efficient hiring and recruitment, implementing business policies as well as training and development needs. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Giovanna%20Caushi.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Giovanna%20Caushi.jpg",
+    "isSparks": true
   },
   {
     "id": "866f1a4d-7a40-4dc7-bda2-ffff97dc0a7b",
@@ -87,7 +87,8 @@
     "position": "Project Accountant",
     "aboutPerson": "",
     "bottomDescription": "Taylor brings 10 years of construction experience and a bachelor’s degree in accounting as well as an associate degree in science. As a project accountant, Taylor is responsible for all accounts payable and accounts receivable pertaining to our construction projects. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Taylor%20Vestuto.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Taylor%20Vestuto.jpg",
+    "isSparks": true
   },
   {
     "id": "6cac0037-1b6b-4bc9-acec-bc17bd9ba07f",
@@ -95,7 +96,8 @@
     "position": "Payroll Administrator",
     "aboutPerson": "",
     "bottomDescription": "Bela brings five years of experience in finance accounting. As payroll specialist, Bela’s daily tasks include calculating payable hours, bonuses, tax withholdings and deductions, she manages our electronic timekeeping system, and is knowledgeable in providing information and answering employee questions about payroll-related matters. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Bela%20Kuminja.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Bela%20Kuminja.jpg",
+    "isSparks": true
   },
   {
     "id": "86d45bae-3868-4a8a-bad5-bd6890a7d52b",
@@ -103,7 +105,8 @@
     "position": "Accounts Payable",
     "aboutPerson": "",
     "bottomDescription": "Elyse brings over 10 years of construction experience with her. Elyse’s responsibilities include daily invoice entry, check processing, reconciling vendor accounts, etc. ",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Elyse%20Jansma1.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Elyse%20Jansma1.jpg",
+    "isSparks": true
   },
   {
     "id": "a727a268-36fa-423b-9dd4-d01dc0e2ada8",
@@ -119,7 +122,8 @@
     "position": "Project Manager",
     "aboutPerson": "",
     "bottomDescription": "Kyle brings five years of construction experience to Apex. Kyle earned his bachelor’s degree in Science in Civil Engineering from Purdue University Northwest. Kyle’s Responsibilities as a Project Manager include overseeing all aspects of the construction process, including material procurement, RFI’s, Submittals, maintaining contract documents, scheduling contractors, contract review, pay applications, and any additional task to ensure a project is met on time and on budget for the clients.",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Kyle.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Kyle.jpg",
+    "isExcellence": true
   },
   {
     "id": "7b56779e-7f0b-4c5a-bc36-d7cd566a09ff",
@@ -127,7 +131,8 @@
     "position": "Project Manager",
     "aboutPerson": "Dharmendra has been working with Apex since 2018. He has a MS degree in Construction Engineering and Management from the University of Illinois, Urbana-Champaign. He began his career with Apex from two back to back summer and fall internship during his grad school.",
     "bottomDescription": "<br/>As a project manager, he works with the entire project team to create the project schedule and update it on a regular basis. Dharmendra also reviews the subcontractor proposals, prepares submittals, processes RFI’s and change orders, and helps with payment applications. He currently holds OSHA 30 Hours and CMIT (Construction Manager-In-Training) certification and is affiliated with American Society of Civil Engineers and Construction Management Association of America.",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Dharmendra%20Choudhary.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Dharmendra%20Choudhary.jpg",
+    "isExcellence": true
   },
   {
     "id": "3827fce9-d5e5-4e30-a8d7-1c68e5d91602",
@@ -135,7 +140,8 @@
     "position": "Project Manager",
     "aboutPerson": "Kim Verduzco is responsible for Project Management in planning,\nmanagement direction, project completion, client satisfaction, and\nfinancial outcome of the project. She coordinates all contractual\nrequirements, design drawings, and project specifications. With her\nextensive background in the construction industry, she is able to lead\nprojects from design through implementation with professionalism, while\nalways being goal focused.",
     "bottomDescription": "<br/>",
-    "photo": "https://apextest12.b-cdn.net/teamFaces/Kim.jpg"
+    "photo": "https://apextest12.b-cdn.net/teamFaces/Kim.jpg",
+    "isExcellence": true
   },
   {
     "id": "46c2fe9e-6e8b-4290-82cc-fd9780a6dc81",
@@ -143,7 +149,8 @@
     "position": "Senior Superintendent",
     "aboutPerson": "",
     "bottomDescription": "Scott brings 51 years of experience in the construction industry. As a senior superintendent, Scott provides overall management of field operations, safety, quality control, and has been a great mentor for our project managers and project engineers. ",
-    "photo": ""
+    "photo": "",
+    "isExcellence": true
   },
   {
     "id": "9106dceb-ec89-42ab-90b0-3e617cfa7f4f",
@@ -151,7 +158,8 @@
     "position": "Superintendent",
     "aboutPerson": "",
     "bottomDescription": "Gezim brings 11 years of construction industry experience. Gezim earned a Masters in technical studies of Architecture from the University of Prishtina. As a superintendent, Gezim uses his skills to monitor projects from planning to completion, including tasks such as scheduling and budgeting. He ensures Apex quality standards as well as safety and security of the construction site. ",
-    "photo": ""
+    "photo": "",
+    "isExcellence": true
   },
   {
     "id": "e94cb661-7a36-450a-a766-0d86e39185aa",
@@ -159,6 +167,7 @@
     "position": "Assistant Superintendent",
     "aboutPerson": "",
     "bottomDescription": "Matt brings 18 years of construction experience as an EPA Certified Universal, ETI Graduate. As an assistant superintendent, Matt is responsible for scheduling and coordination of subcontractors, jobsite safety as well as QA/QC inspections. \n\n",
-    "photo": ""
+    "photo": "",
+    "isExcellence": true
   }
 ]
