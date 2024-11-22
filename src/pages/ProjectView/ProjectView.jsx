@@ -6,13 +6,11 @@ import {Header} from "../../components/common/Header/Header";
 import {MobileMenu} from "../../components/MobileMenu/MobileMenu";
 import {FooterBlock} from "../../components/common/Footer/Footer";
 import {PanePanel} from "../../components/PanePanel/PanePanel";
-import {ProjectPhoto} from "../Projects/ProjectPhoto/ProjectPhoto";
 import {scrollUpFast} from "../Home/Home";
 import play1 from "./../../assets/play.png"
 import {ProjectVideoModalWindow} from "../../components/ProjectVideoModal/ProjectVideoModalWindow";
 import {useDispatch, useSelector} from "react-redux";
 import {getAllProjectsTC} from "../../store/projectsReducer/projectsReducer";
-import {v4 as uuidv4} from "uuid";
 import ResponsiveGallery from 'react-responsive-gallery';
 
 

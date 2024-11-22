@@ -1,0 +1,65 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string"
+      },
+      "client": {
+        "type": "string"
+      },
+      "address": {
+        "type": "string"
+      },
+      "locationCity": {
+        "type": "string"
+      },
+      "locationState": {
+        "type": "string"
+      },
+      "owner": {
+        "type": "string"
+      },
+      "architect": {
+        "type": "string"
+      },
+      "sf": {
+        "type": "string"
+      },
+      "deliverySystem": {
+        "type": "string",
+        "enum": ["General Contractor", "Design-Build"]
+      },
+      "description": {
+        "type": "string"
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "projectVideo": {
+        "type": ["string", "null"]
+      },
+      "projectPanorama": {
+        "type": ["string", "null"]
+      },
+      "mainPhoto": {
+        "type": "string"
+      },
+      "photos": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": ["id", "title", "locationCity", "locationState", "deliverySystem", "description", "tags", "mainPhoto", "photos"],
+    "additionalProperties": false
+  }
+}

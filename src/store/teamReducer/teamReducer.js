@@ -1,6 +1,5 @@
-import {WebsiteAPI} from "../../API/WebsiteApi";
-import {actions} from "../projectsReducer/projectsReducer";
 import {v1} from "uuid";
+import team from '../../db/apexTeam.json'
 
 
 let initialState = {
@@ -30,7 +29,7 @@ export let actionsTeam = {
 
 export const getAllTeamMembersTC = () => {
     return async (dispatch) => {
-        const response = await WebsiteAPI.getAllTeam();
+        const response = team
         dispatch(actionsTeam.setAllApexTeam(response));
     }
 };
@@ -42,5 +41,7 @@ export const teamMemberTemplate = {
     id: v1(),
     name: '',
     photo: '',
-    position: ''
+    position: '',
+    isExcellence: undefined,
+    isSparks: undefined
 }
