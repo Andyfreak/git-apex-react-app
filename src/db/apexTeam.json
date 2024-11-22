@@ -61,7 +61,7 @@
     "aboutPerson": "",
     "bottomDescription": "Djordje brings eight years of experience in the industry with degrees in Construction management as well as civil engineering technologies. In his role as Director of Preconstruction, Djordje is responsible for delivering superior estimating and preconstruction services, through decision-making, planning, and buyout phases of the project. He has aided Apex in delivering an elite client experience by helping establish a high level of trust with the client, architects, engineers, subcontractors, and suppliers. Djordje has led the preconstruction team in preparing accurate and complete budgets based on limited and conceptual information. He actively works with the design consultants to provide strategy development & value discovery while maintaining the owner’s vision. ",
     "photo": "https://apextest12.b-cdn.net/teamFaces/Djordje%20Janjus.jpg",
-    "isExcellence": true
+    "isExcellence": false
   },
   {
     "id": "d8bf85ce-23ff-421e-a485-3d1d14ee8284",
@@ -123,7 +123,7 @@
     "aboutPerson": "",
     "bottomDescription": "Kyle brings five years of construction experience to Apex. Kyle earned his bachelor’s degree in Science in Civil Engineering from Purdue University Northwest. Kyle’s Responsibilities as a Project Manager include overseeing all aspects of the construction process, including material procurement, RFI’s, Submittals, maintaining contract documents, scheduling contractors, contract review, pay applications, and any additional task to ensure a project is met on time and on budget for the clients.",
     "photo": "https://apextest12.b-cdn.net/teamFaces/Kyle.jpg",
-    "isExcellence": true
+    "isExcellence": false
   },
   {
     "id": "7b56779e-7f0b-4c5a-bc36-d7cd566a09ff",
@@ -158,7 +158,7 @@
     "position": "Superintendent",
     "aboutPerson": "",
     "bottomDescription": "Gezim brings 11 years of construction industry experience. Gezim earned a Masters in technical studies of Architecture from the University of Prishtina. As a superintendent, Gezim uses his skills to monitor projects from planning to completion, including tasks such as scheduling and budgeting. He ensures Apex quality standards as well as safety and security of the construction site. ",
-    "photo": "",
+    "photo": "https://imagedelivery.net/8kTKM5a33wjdtZlPGqUxzA/23edf55b-032e-4619-279d-b68a0d5b8400/public",
     "isExcellence": true
   },
   {
@@ -168,6 +168,6 @@
     "aboutPerson": "",
     "bottomDescription": "Matt brings 18 years of construction experience as an EPA Certified Universal, ETI Graduate. As an assistant superintendent, Matt is responsible for scheduling and coordination of subcontractors, jobsite safety as well as QA/QC inspections. \n\n",
     "photo": "",
-    "isExcellence": true
+    "isExcellence": false
   }
 ]
