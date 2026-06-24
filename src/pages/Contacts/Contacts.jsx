@@ -83,9 +83,9 @@ export default function Contacts() {
                     <div className={S.contactsContainer}>
                         <div className={S.adressBlock}>
                             <div className={S.addressLabel}>address</div>
-                          <p className={S.addressText}>17W601 14th St.</p>
-                          <p className={S.addressText}>OakBrook Terrace</p>
-                            <p className={S.addressText}>Chicago, ILLINOIS 60181</p>
+                          <p className={S.addressText}>6100 N. PULASKI RD</p>
+                          <p className={S.addressText}></p>
+                            <p className={S.addressText}>Chicago, ILLINOIS 60646</p>
                         </div>
                         <div className={S.phoneBlock}>
                             <div className={S.addressLabel}>phone</div>
