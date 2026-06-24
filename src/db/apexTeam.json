@@ -33,7 +33,7 @@
     "aboutPerson": " ",
     "bottomDescription": "David is an exceptional addition to Apex with his extensive experience and credentials\nin the construction Industry. His 23 years of expertise encompassing new construction,\nrenovation, and mixed-use, combined with his LEED Accredited Professional status and\nmembership in the Construction Management Association of America, demonstrate his\ncommitment to excellence and industry standards.\nManaging projects ranging from $10MM to $300MM showcases David’s versatility and\ncapability to handle projects of various scales. His proficiency in ensuring project stay\non track with scheduling, costs, and quality control, while addressing issues that may\narise, speaks to his effectiveness as a leader.\nDavid’s meticulous attention to detail not only enhances organizational efficiency but\nalso fosters clear communication among stakeholders, subcontractors, and staff,\nultimately contributing to the success of his projects.",
     "photo": "https://apextest12.b-cdn.net/teamFaces/David%20Laramiee.jpg",
-    "isExcellence": true
+    "isExcellence": false
   },
   {
     "id": "b1d5d4ed-12j5-4fd8-b4a9-2a636ag66379",
@@ -141,7 +141,7 @@
     "aboutPerson": "Kim Verduzco is responsible for Project Management in planning,\nmanagement direction, project completion, client satisfaction, and\nfinancial outcome of the project. She coordinates all contractual\nrequirements, design drawings, and project specifications. With her\nextensive background in the construction industry, she is able to lead\nprojects from design through implementation with professionalism, while\nalways being goal focused.",
     "bottomDescription": "<br/>",
     "photo": "https://apextest12.b-cdn.net/teamFaces/Kim.jpg",
-    "isExcellence": true
+    "isExcellence": false
   },
   {
     "id": "46c2fe9e-6e8b-4290-82cc-fd9780a6dc81",
