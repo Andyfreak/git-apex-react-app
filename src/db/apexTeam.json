@@ -42,7 +42,7 @@
     "aboutPerson": " ",
     "bottomDescription": "",
     "photo": "https://apextest12.b-cdn.net/teamFaces/Jake%20Erwin.jpg",
-    "isExcellence": true
+    "isExcellence": false
   },
 
   {
@@ -88,7 +88,7 @@
     "aboutPerson": "",
     "bottomDescription": "Taylor brings 10 years of construction experience and a bachelor’s degree in accounting as well as an associate degree in science. As a project accountant, Taylor is responsible for all accounts payable and accounts receivable pertaining to our construction projects. ",
     "photo": "https://apextest12.b-cdn.net/teamFaces/Taylor%20Vestuto.jpg",
-    "isSparks": true
+    "isSparks": false
   },
   {
     "id": "6cac0037-1b6b-4bc9-acec-bc17bd9ba07f",
